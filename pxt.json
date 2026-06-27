@@ -1,0 +1,12 @@
+{
+    "name": "teaching-extensions",
+    "version": "0.0.1",
+    "description": "Utility blocks to simplify common logic.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "blocks.xml"
+    ]
+}

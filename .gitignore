@@ -1,0 +1,14 @@
+# MakeCode Build artifacts
+built/
+pxt_modules/
+*.js
+*.js.map
+*.hex
+*.uf2
+
+# OS generated files
+.DS_Store
+
+# Standard Node
+node_modules/
+package-lock.json

@@ -6,7 +6,8 @@
         "device": "*"
     },
     "files": [
-        "main.ts",
+        "screenutil.ts",
+        "tileutil.ts",
         "blocks.xml"
     ]
 }
